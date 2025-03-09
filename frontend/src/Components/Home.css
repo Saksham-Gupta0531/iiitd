@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+.Navbar{
+    width: 100vw;
+    height: 12vh;
+    background-color: #ffffff;
+    color: #000000;
+    /* border: 2px solid #000000; */
+    box-shadow: 5px 5px 5px rgb(189, 189, 189);
+}
+.content{
+    width: 100vw;
+    height: 87vh;
+    border: 2px solid #000000;
+}
